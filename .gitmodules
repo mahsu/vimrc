@@ -1,3 +1,27 @@
 [submodule "plugins/vim-pathogen"]
 	path = plugins/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen
+[submodule "syntax/vim-javascript"]
+	path = syntax/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "syntax/vim-json"]
+	path = syntax/vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "syntax/vim-less"]
+	path = syntax/vim-less
+	url = https://github.com/groenewege/vim-less
+[submodule "plugins/vim-fugitive"]
+	path = plugins/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "plugins/nerdtree"]
+	path = plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/mru"]
+	path = plugins/mru
+	url = https://github.com/yegappan/mru
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "plugins/tabline.vim"]
+	path = plugins/tabline.vim
+	url = https://github.com/mkitt/tabline.vim

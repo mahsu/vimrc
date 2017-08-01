@@ -25,3 +25,6 @@
 [submodule "plugins/tabline.vim"]
 	path = plugins/tabline.vim
 	url = https://github.com/mkitt/tabline.vim
+[submodule "plugins/syntastic"]
+	path = plugins/syntastic
+	url = https://github.com/vim-syntastic/syntastic
